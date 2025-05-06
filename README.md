@@ -1,2 +1,2 @@
 # Seg_cell
-Python script for a fast and automatic counting of cellules in a .lif file
+Python script that automatically count all the cells in the images contained in a .lif file
