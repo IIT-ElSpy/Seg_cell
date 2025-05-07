@@ -28,6 +28,7 @@
 4. **Data Export**  
    All results are saved in a `.csv` file, enabling quick and efficient downstream data analysis.
 
+To cite this work, you can use: https://doi.org/10.5281/zenodo.15355995
 ---
 
 
